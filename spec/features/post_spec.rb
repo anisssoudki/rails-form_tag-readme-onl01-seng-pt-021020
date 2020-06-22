@@ -23,4 +23,4 @@ the submitted post's title and description" do
     expect(page).to have_content('My post title')
     expect(page).to have_content('My post description')
   end
-en
+end
